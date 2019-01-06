@@ -40,3 +40,11 @@ The Dashboard includes:
 6. Project Cancellation - If the client wants to cancel a project.
 
 ![screenshot 154](https://user-images.githubusercontent.com/46291816/50738826-3e885c00-11fe-11e9-92c8-91c7e25adf50.png)
+
+7. Profile - User can view/change their info.
+
+![screenshot 151](https://user-images.githubusercontent.com/46291816/50738967-688e4e00-11ff-11e9-99bf-497c671e420a.png)
+
+8. Settings - To change Password (whenever required).
+
+![screenshot 152](https://user-images.githubusercontent.com/46291816/50738972-8d82c100-11ff-11e9-8423-0bd21e7992ca.png)
