@@ -1,5 +1,5 @@
 # Startup_Dashboard
-Complete Dashboard for a startup website with proper login system.
+Complete Dashboard for a startup website with proper login system. The Dashboard is developed in PHP and is completely responsive.
 
 This dashboard has copyright by FlexCreo which is my Startup. 
 
